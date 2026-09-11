@@ -1,5 +1,5 @@
 INSERT INTO product
-(name, `desc`, brand, price, category, release_date, available, quantity)
+(name, `desc`, brand, price, category, release_date, available, stock_quantity)
 VALUES
 ('Model 3', 'Electric sedan with impressive range', 'Tesla', 42000.00, 'Electric Car', '2024-01-15', true, 10),
 
